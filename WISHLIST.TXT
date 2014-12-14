@@ -1,0 +1,16 @@
+Wish List (let me know your favorites and keep an eye on future versions!)
+
+	Add a stop watch/countdown timer.
+
+	Add alarms - sound is from .wav files.
+
+	Add chimes for quarter, half and full hour - sound is from
+	.wav files.
+
+	Eliminate all flicker.
+
+	Improved UI for the setup dialog.
+
+	Low resource/memory warning.
+
+
